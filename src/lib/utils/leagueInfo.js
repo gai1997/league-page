@@ -32,7 +32,7 @@ export const managers = [
       "location": "New York, New York", // (optional)
       "bio": "2020 Hauschka's Heroes Dynasty League Champion",
       "photo": "/managers/gaitrophyhold.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 0, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": 2019, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
